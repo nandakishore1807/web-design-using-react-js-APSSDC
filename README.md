@@ -1,7 +1,7 @@
 # web-design-using-react-js-APSSDC
 This is an front end project by using reactjs. 
-# it is used for heading 1 after # dont forget to give space
-## it is used for heading 2 dont forget to give space
+# it is used for heading 1 (after # dont forget to give space)
+## it is used for heading 2 d(dont forget to give space)
 ### it is used for heading 3
 #### it is used for heading 4
 *font style in italic*  ( after * dont give space)
