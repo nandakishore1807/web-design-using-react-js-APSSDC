@@ -17,10 +17,10 @@ this is font emphasis
   * carrot
   * potato
   * onions
-## ordered List 
+# ordered List 
 1. Alphabets
 2. digits
     1. Whole Numbers
     2. Natural Numbers
     3. Integers
- ![Guns](https://undark.org/wp-content/uploads/2020/04/weapons-3417508.jpg)
+ ![Guns](https://www.thoughtco.com/thmb/YqpbqNABSt8o9c1GoKaEQ0K32Ew=/3865x2174/smart/filters:no_upscale()/sunrise-at-taj-mahal--agra--uttar-pradash--india-583682538-5b91840bc9e77c0050bdc67b.jpg)
