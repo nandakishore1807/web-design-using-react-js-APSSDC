@@ -32,3 +32,5 @@ def fun():
 print ("hai")
 ~~~
 Table1|Table2
+------|------
+Tablebody1|Tablebody2
