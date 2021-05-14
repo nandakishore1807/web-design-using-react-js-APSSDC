@@ -100,7 +100,7 @@ Tablebody1|Tablebody
  
  15.**git push remotename master** ->will push the file from local folder to repository
 
-     1.jfdfggd
      
-     3.yddfgg
+     
+
      
